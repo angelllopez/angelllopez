@@ -5,7 +5,7 @@
 <div>  
 <ul>
   <li>
-    <a href="https://github/angelllopez/mySolarPower/">mySolarPower</a>
+    <a href="https://github.com/angelllopez/mySolarPower">mySolarPower</a>
   </li>
 </ul>
 </div>
