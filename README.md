@@ -3,8 +3,7 @@
 <hr />
 <h3>Software Development Projects:</h3>
 <hr />
-<ul>
-  <li>mySolarPower</li>
-</ul>
+- [mySolarPower](https://github.com/angelllopez/mySolarPower)
+
 
 
