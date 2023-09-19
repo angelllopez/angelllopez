@@ -3,8 +3,8 @@
 ## About Me
 Hi there! I'm an innovative tech enthusiast at the crossroads of Azure Cloud Development, Full-Stack Web Development, and Azure AI Engineering. With a passion for crafting seamless digital experiences and harnessing the power of AI, I thrive on building dynamic solutions that fuse cutting-edge technologies.
 
-## Web Development Project:
-### mySunPower
+### Web Development Project:
+#### mySunPower
 - The project is an ASP.NET Core 7 Web API project that uses the latest features and best practices of the framework.
 - The project's main goal is to provide a secure and reliable way of sharing the historical energy production data of my home Sun Power's Equinox system with authorized client applications.
 - The historical data spans from the date when the system was activated until the most recent Sun Power's Monthly Performance Report, which is updated every month.
