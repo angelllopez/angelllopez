@@ -4,7 +4,6 @@
 Hi there! I'm an innovative tech enthusiast at the crossroads of Azure Cloud Development, Full-Stack Web Development, and Azure AI Engineering. With a passion for crafting seamless digital experiences and harnessing the power of AI, I thrive on building dynamic solutions that fuse cutting-edge technologies.
 
 ### Web Development Project:
-#### [mySunPower](https://github.com/angelllopez/mySolarPower)
 #### [UtiliSense](https://github.com/angelllopez/UtiliSense2)
 - The project is an ASP.NET Core 7 Web API app that uses the latest features and best practices of the framework.
 - The project's main goal is to provide a secure and reliable way of sharing the historical energy production data of my Sun Power's Equinox 11.90 kW system with authorized client applications.
