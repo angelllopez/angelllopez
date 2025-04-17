@@ -1,3 +1,4 @@
+![Alt text](./liberty.png)
 # Hi, I am Angel!
 
 ## About Me
