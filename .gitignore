@@ -1,0 +1,20 @@
+   # Visual Studio specific files
+   .vs/
+   *.user
+   *.suo
+   *.vcxproj.user
+   *.pdb
+   *.obj
+   *.exe
+   *.dll
+   *.log
+
+   # Build output
+   bin/
+   obj/
+
+   # Temporary files
+   *.tmp
+   *.log
+   *.cache
+   
